@@ -1,7 +1,6 @@
 - 👋 Hi, my name is Radek Skotnicki
 - 👀 I’m interested in front end development and web design
 - 🌱 I’m currently learning: Wordpress, GSAP animations and Vue.js
-- 💞️ I’m looking for my first job as front end dev.
 - 📫 kodu.dev@gmail.com
 
 <!---
